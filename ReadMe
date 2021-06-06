@@ -1,1 +1,1 @@
-Follow the instructions.
+This is a simple but complete example of using ANTLR 4.  The developer creates 3 files: a lexer gramma, a parser grmmmar, and a translator. The ANTLR tool converts the two gammars to code in the userss chice, 
