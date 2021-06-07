@@ -1,5 +1,5 @@
 # Mini
-This is a simple but complete example of using ANTLR 4 as the basis for developing a translatormapp. Using the app or any of the ANTLR 4 tools requires the user to have  a local copy of version 4.9.2 of the ANTLR 4 jar file which is availble here: https://www.antlr.org/download.html
+This is a simple but complete example of using ANTLR 4 as the basis for developing a translator app. Using the app or any of the ANTLR 4 tools requires the user to have  a local copy of version 4.9.2 of the ANTLR 4 jar file which is availble here: https://www.antlr.org/download.html
 
 You will also need local copy of the the JRE or Java Runtime environment in order to run the executable. Your machine may alredy have this. If not it can be download from here: https://www.java.com/en/download/manual.jsp
 
