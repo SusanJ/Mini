@@ -1,7 +1,7 @@
 # Mini
 This is a simple but complete example of using ANTLR 4 as the basis for developing a translator app. Using the app or any of the ANTLR 4 tools requires the user to have  a local copy of version 4.9.2 of the ANTLR 4 jar file which is availble here: https://www.antlr.org/download.html
 
-You will also need local copy of the the JRE or Java Runtime environment in order to run the executable. Your machine may already have this. if so your machine will recognize the "Java" command. If not it can be download from here: https://www.java.com/en/download/manual.jsp
+You will also need a local copy of the the JRE or Java Runtime environment in order to run the executable. Your machine may already have this. if so your machine will recognize the "Java" command. If not it can be download from here: https://www.java.com/en/download/manual.jsp
 
 Once you have the ANTLR 4 jar file  and the Java command locally you can run the mini.jar executable directly on all the operating systems I'm familiar with; the xjar Windows batch file shows how I do iton Windows 10  using a command line when in a directory with all the necessary files.
 
